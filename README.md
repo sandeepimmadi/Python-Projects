@@ -27,3 +27,5 @@ will combine all the elements to define the label of the clock application:
 define the main function of our digital clock. Here we will set the text of the label as the realtime and run and see our output.
 # 5. Price Elasticity of Demand 
 Price elasticity of demand refers to the degree of responsiveness of demand for a product to a change in price. Simply put, it means the degree to which the demand for a product changes with an increase or decrease in its price.
+# 6. LCM using Python
+I defined a Python function, where I used two parameters as a and b. Then I find the large number between the two numbers and divide the larger number with both the numbers in a while loop where the value of the larger number will be increased by 1 until we get 0 as a remainder. So this is how you can find the least common multiple of two numbers using the Python programming language.
