@@ -25,3 +25,5 @@ We will set both the height and width of the resizable function as True(1,1) if 
 will define the font of the time and its colour, its border width and the background colour of the digital clock:
 will combine all the elements to define the label of the clock application:
 define the main function of our digital clock. Here we will set the text of the label as the realtime and run and see our output.
+# 5. Price Elasticity of Demand 
+Price elasticity of demand refers to the degree of responsiveness of demand for a product to a change in price. Simply put, it means the degree to which the demand for a product changes with an increase or decrease in its price.
