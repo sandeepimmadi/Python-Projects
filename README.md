@@ -6,3 +6,9 @@ Lists/
 Dictionary/
 NumPy Array/
 Pandas DataFrame.
+# 1.Age calculator
+To create an age calculator, you need two dates:
+
+today’s date/
+date of birth/
+You can either ask the user for both dates or just ask for the date of birth and use today’s date from the computer itself. Asking for the birthday only seems like a more user-friendly option. So here’s how to create an age calculator using Python:
